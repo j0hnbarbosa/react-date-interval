@@ -1,5 +1,6 @@
 import React from 'react'
 import { Grid, Segment, Container } from 'semantic-ui-react'
+import moment from 'react-moment';
 
 const GridExampleEqualWidthRow = () => (
   <Container>
